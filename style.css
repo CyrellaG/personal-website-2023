@@ -13,7 +13,7 @@ h2 {
     font-size: 3rem;
 }
 
-img {
+.profile-image {
     width: 320px;
     margin-inline-end: 4rem;
 }
@@ -22,7 +22,7 @@ img {
     display: flex;
 }
 
-a {
+a.btn {
     text-decoration: none;
     color: #F2D4D4;
     background-color: #2E306F;
