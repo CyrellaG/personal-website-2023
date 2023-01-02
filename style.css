@@ -13,6 +13,11 @@ h1 {
 
 h2 {
     font-size: 3rem;
+    margin: 3rem 0rem 0.5rem 0rem;
+}
+
+.recent-work {
+    border-bottom: 3px solid #2E306F;
 }
 
 .profile-image {
@@ -48,6 +53,7 @@ a.btn {
 
 article {
     display: flex;
+    margin: 2rem 0rem 1rem 0rem;
 }
 
 @media (max-width: 1024px) {
