@@ -27,7 +27,8 @@ h3 {
 }
 
 .profile-image {
-    width: 375px;
+    object-fit: contain;
+    width: 35%;
     margin-inline-end: 4rem;
 }
 
@@ -46,7 +47,7 @@ h3 {
     color: #F2D4D4;
     background-color: #2E306F;
     height: 2.5rem;
-    width: 40%;
+    width: 15rem;
     margin: 0 auto;
     display: grid;
     align-items: center;
@@ -58,6 +59,7 @@ h3 {
     width: 50%;
     height: 50%;
     margin: 2rem 0rem 1rem 1rem;
+    object-fit: contain;
 }
 
 article {
